@@ -25,7 +25,7 @@ Pour un projet .NET, privilégier `src/`, `tests/`, `samples/`, `eng/` et `.gith
 
 ## npm : `@thedotside`
 
-L'organisation npm est indépendante de GitHub. Elle doit être administrée depuis des comptes npm personnels. Son nom devient le scope ; l'offre gratuite convient aux packages publics.
+L'organisation npm `thedotside` est créée et utilise le scope `@thedotside`. Son propriétaire initial est le compte personnel `gscbo`. Elle bénéficie de l'offre gratuite pour les packages publics. Chaque membre utilise son propre compte npm ; l'organisation npm reste indépendante de GitHub.
 
 Convention : `@thedotside/<nom-du-package>`. Exemple de métadonnées à adapter dans un futur projet réel :
 
